@@ -1,0 +1,168 @@
+.carssell{
+    height: 450px;
+    width: 634px;
+}
+
+@media only screen and (max-width: 1200px){
+    .carssell { width: 530px; height: 420px;}
+}
+
+@media only screen and (max-width: 992px){
+    .carssell { width: 380px; height: 320px;}
+}
+
+@media only screen and (max-width: 768px){
+    .carssell { width: 530px; height: 420px;}
+}
+
+@media only screen and (max-width: 560px){
+    .carssell { width: 530px; height: 350px;}
+}
+
+@media only screen and (max-width: 556px){
+    .carssell { width: 520px; height: 350px;}
+}
+
+@media only screen and (max-width: 531px){
+    .carssell { width: 500px; height: 300px;}
+}
+
+@media only screen and (max-width: 525px){
+    .carssell { width: 490px; height: 300px;}
+}
+
+@media only screen and (max-width: 519px){
+    .carssell { width: 480px; height: 300px;}
+}
+
+@media only screen and (max-width: 513px){
+    .carssell { width: 470px; height: 300px;}
+}
+
+@media only screen and (max-width: 501px){
+    .carssell { width: 460px; height: 300px;}
+}
+
+@media only screen and (max-width: 491px){
+    .carssell { width: 450px; height: 300px;}
+}
+
+@media only screen and (max-width: 478px){
+    .carssell { width: 440px; height: 300px;}
+}
+
+@media only screen and (max-width: 473px){
+    .carssell { width: 435px; height: 300px;}
+}
+
+@media only screen and (max-width: 465px){
+    .carssell { width: 428px; height: 290px;}
+}
+
+@media only screen and (max-width: 461px){
+    .carssell { width: 425px; height: 290px;}
+}
+
+@media only screen and (max-width: 454px){
+    .carssell { width: 415px; height: 290px;}
+}
+
+@media only screen and (max-width: 450px){
+    .carssell { width: 410px; height: 290px;}
+}
+
+@media only screen and (max-width: 441px){
+    .carssell { width: 405px; height: 290px;}
+}
+
+@media only screen and (max-width: 435px){
+    .carssell { width: 400px; height: 290px;}
+}
+
+@media only screen and (max-width: 431px){
+    .carssell { width: 395px; height: 290px;}
+}
+
+@media only screen and (max-width: 427px){
+    .carssell { width: 390px; height: 290px;}
+}
+
+@media only screen and (max-width: 421px){
+    .carssell { width: 380px; height: 290px;}
+}
+
+@media only screen and (max-width: 415px){
+    .carssell { width: 370px; height: 290px;}
+}
+
+@media only screen and (max-width: 405px){
+    .carssell { width: 368px; height: 290px;}
+}
+
+@media only screen and (max-width: 398px){
+    .carssell { width: 360px; height: 290px;}
+}
+
+@media only screen and (max-width: 390px){
+    .carssell { width: 355px; height: 290px;}
+}
+
+@media only screen and (max-width: 385px){
+    .carssell { width: 351px; height: 290px;}
+}
+
+@media only screen and (max-width: 380px){
+    .carssell { width: 347px; height: 290px;}
+}
+
+@media only screen and (max-width: 375px){
+    .carssell { width: 342px; height: 290px;}
+}
+
+@media only screen and (max-width: 371px){
+    .carssell { width: 338px; height: 290px;}
+}
+
+@media only screen and (max-width: 367px){
+    .carssell { width: 334px; height: 290px;}
+}
+
+@media only screen and (max-width: 363px){
+    .carssell { width: 330px; height: 275px;}
+}
+
+@media only screen and (max-width: 361px){
+    .carssell { width: 328px; height: 275px;}
+}
+
+@media only screen and (max-width: 358px){
+    .carssell { width: 324px; height: 275px;}
+}
+
+@media only screen and (max-width: 353px){
+    .carssell { width: 320px; height: 275px;}
+}
+
+@media only screen and (max-width: 349px){
+    .carssell { width: 316px; height: 275px;}
+}
+
+@media only screen and (max-width: 347px){
+    .carssell { width: 313px; height: 270px;}
+}
+
+@media only screen and (max-width: 340px){
+    .carssell { width: 306px; height: 270px;}
+}
+
+@media only screen and (max-width: 330px){
+    .carssell { width: 296px; height: 270px;}
+}
+
+@media only screen and (max-width: 325px){
+    .carssell { width: 293px; height: 270px;}
+}
+
+@media only screen and (max-width: 320px){
+    .carssell { width: 288px; height: 260px;}
+}
