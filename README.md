@@ -13,5 +13,5 @@ Site para revendas de veículos, onde o admin publica post's de carros para vend
 5. Bootstrap
 6. Jquery
 
-### Até a próxima :wolf:
+### :wolf:
 
